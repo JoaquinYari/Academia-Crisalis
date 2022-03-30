@@ -1,0 +1,28 @@
+package persistence.commons;
+
+import persistence.CompanyDao;
+import persistence.PersonDao;
+import persistence.ProductDao;
+import persistence.impl.ProductDaoImpl;
+import persistence.impl.ServiceDaoImpl;
+
+public class DaoFactory {
+	
+	public static PersonDao getPersonDao() {
+		return new PersonDaoImpl();
+	}
+	
+	public static CompanyDao getCompanyDao() {
+		return new CompanyDaoImpl();
+	}
+	
+	public static ProductDao getProductDao() {
+		return new ProductDaoImpl();
+	}
+	
+	public statis ServiceDao getServiceDao() {
+		return new ServiceDaoImpl();
+	}
+	
+
+}

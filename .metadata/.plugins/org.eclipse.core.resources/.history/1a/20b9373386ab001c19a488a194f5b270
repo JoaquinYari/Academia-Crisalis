@@ -1,0 +1,5 @@
+package persistence.commons;
+
+public class MissingDataException {
+
+}

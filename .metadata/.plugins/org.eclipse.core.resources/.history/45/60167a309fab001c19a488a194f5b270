@@ -1,0 +1,13 @@
+package persistence;
+
+import java.util.List;
+
+import model.client.Client;
+import model.order.Service;
+import persistence.commons.GenericDao;
+
+public interface ServiceDao extends GenericDao<Service> {
+	
+	Service findByName(String name);
+
+}

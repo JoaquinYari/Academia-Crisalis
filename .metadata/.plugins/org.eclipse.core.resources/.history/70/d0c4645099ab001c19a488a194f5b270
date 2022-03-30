@@ -1,0 +1,7 @@
+package model.nullObjets;
+
+import model.order.Product;
+
+public class NullProduct extends Product {
+
+}

@@ -1,0 +1,54 @@
+package persistence.impl;
+
+import java.sql.Connection;
+import java.util.List;
+
+import model.order.Product;
+import persistence.ProductDao;
+import persistence.commons.ConnectionProvider;
+
+public class ProductDaoImpl implements ProductDao {
+
+	@Override
+	public Product findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Product> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer insert(Product product) {
+		
+		try {
+			String sql = "INSERT INTO Products (name, costoBase, iva, iibb)"
+					+ "VALUES (?, ?, ?, ?)";
+			Connection conn = ConnectionProvider.getConnection();
+		}
+		
+		return null;
+	}
+
+	@Override
+	public Integer update(Product t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer delete(Product t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findByName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,5 @@
+package persistencia.implementaciones;
+
+public class ServicioDaoImpl {
+
+}

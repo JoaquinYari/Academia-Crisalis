@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Joaquin\ACADEMIA-CRISALIS\TP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2492251158.index
+1012501160.index
+654375842.index
+4152305552.index
+3691530607.index
+3016190745.index
+3086973181.index

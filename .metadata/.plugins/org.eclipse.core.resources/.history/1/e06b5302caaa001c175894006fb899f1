@@ -1,0 +1,5 @@
+package persistencia.comunes;
+
+public class GenericDao {
+
+}

@@ -1,0 +1,20 @@
+package model.nullObjets;
+
+import model.client.Company;
+import model.client.Person;
+
+public class NullCompany extends Company {
+	
+	public static Company build() {
+		return new NullCompany();
+	}
+	
+	public NullPerson() {
+		super(0,"", "", 0);
+	}
+	
+	public boolean isNull() {
+		return true;
+	}
+
+}

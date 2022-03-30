@@ -1,0 +1,41 @@
+package modelo.pedido;
+
+public abstract class ItemPedido {
+	
+	protected Integer id;
+	protected String nombre;
+	protected Double costoBase;
+	protected Double impuestos;
+	protected Double costoFinal;
+	protected Integer cantidad;
+	
+	protected Double iva;
+	protected Double iibb;
+	
+	public ItemPedido(Integer id, String nombre, Double costoBase, Double iva, Double iibb, Integer cantidad) {
+		this.id = id;
+		this.nombre = nombre;
+		this.costoBase = costoBase;
+		this.iva = iva;
+		this.iibb = iibb;
+		this.cantidad = cantidad;
+	}
+
+	public abstract Double getCostoFinal();
+	
+	public Double getImpuestos() {
+		impuestos = costoBase * (iva + iibb);
+		
+		return impuestos;
+	}
+
+	public Integer getId() {
+		return id;
+	}	
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	
+}

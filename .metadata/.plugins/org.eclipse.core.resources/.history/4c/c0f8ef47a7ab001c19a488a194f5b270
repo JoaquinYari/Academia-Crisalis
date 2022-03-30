@@ -1,0 +1,46 @@
+package persistence.impl;
+
+import java.util.List;
+
+import model.client.Company;
+import persistence.CompanyDao;
+
+public class CompanyDaoImpl implements CompanyDao {
+
+	@Override
+	public Company findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Company> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer insert(Company t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer update(Company t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer delete(Company t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Company finByBusinessName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

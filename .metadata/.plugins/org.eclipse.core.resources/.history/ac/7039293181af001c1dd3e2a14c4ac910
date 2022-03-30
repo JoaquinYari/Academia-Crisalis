@@ -1,0 +1,13 @@
+package persistence;
+
+import java.util.List;
+
+import model.customer.Client;
+import model.order.Order;
+import persistence.commons.GenericDao;
+
+public interface OrderDao extends GenericDao<Order> {
+	
+	List<Order> getOrdersByClient(Client client);
+
+}

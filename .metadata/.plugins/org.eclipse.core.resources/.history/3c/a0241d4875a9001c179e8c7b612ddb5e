@@ -1,0 +1,106 @@
+package modelo;
+
+import java.time.LocalDateTime;
+import java.util.Hashtable;
+
+public class Pedido {
+	
+	private Integer numeroPedido;
+	private Hashtable<ItemPedido, Integer> items;
+	private Double costoPedido;
+	private LocalDateTime fechaPedido;
+	private Cliente cliente;
+	private Double descuento;
+	private Double costoItems;
+	private Boolean activo;
+	
+	private Double BENEFICIO = 0.1;
+	private Double MAXDESCUENTO = 2500.0;
+	
+	public Pedido(Integer numeroPedido, Cliente cliente) {
+		this.numeroPedido = numeroPedido;
+		this.cliente = cliente;
+		costoItems = 0.0;
+		descuento = 0.0;
+		items = new Hashtable<ItemPedido, Integer>();
+		activo = true;
+	}
+
+	public void agregarItem(ItemPedido item, Integer cantidad) {
+		items.put(item, cantidad);		
+	}
+		
+	public Double calcularCostoItems() {
+		for (ItemPedido item : items.keySet()) {
+			costoItems += item.getCostoFinal() * items.get(item);
+		}
+		return costoItems;
+	}
+	
+	public Boolean correspondeDescuento() {
+		for (ItemPedido item : items.keySet()) {
+			if (item instanceof ItemServicio) return true;
+		}
+		for (Pedido pedido : cliente.pedidos) {
+			if (pedido.activo) {
+				for (ItemPedido item : items.keySet()) {
+					if (item instanceof ItemServicio) return true;
+				}
+			}
+		}
+		return false;
+	}
+	
+	public Double calcularDescuento() {
+		for (ItemPedido item: items.keySet()) {
+			if (item instanceof ItemProducto) {
+				descuento += item.getCostoFinal() * BENEFICIO * items.get(item);
+			}
+		}		
+		if (descuento > MAXDESCUENTO) {
+			return MAXDESCUENTO;
+		} else {
+			return descuento;
+		}
+	}
+
+	public void cerrarPedido() {
+		costoItems = calcularCostoItems();
+		if (correspondeDescuento()) {
+			descuento = calcularDescuento();
+		}
+		costoPedido = costoItems - descuento;
+		setFechaPedido();
+		cliente.pedidos.add(this);
+	}
+
+	public void cancelarPedido() {
+		activo = false;
+		cliente.pedidos.remove(this);
+	}
+	
+	public Integer getNumeroPedido() {
+		return numeroPedido;
+	}
+	
+	public Double getCostoPedido() {
+		return costoPedido;
+	}
+	
+	public LocalDateTime getFechaPedido() {
+		return fechaPedido;
+	}
+	
+	public Double getDescuento() {
+		return descuento;
+	}
+	
+	private void setFechaPedido() {
+		this.fechaPedido = LocalDateTime.now();	
+	}
+
+	public HashMap<ItemPedido, Integer> getItems() {
+		return items;
+	}		
+	
+}

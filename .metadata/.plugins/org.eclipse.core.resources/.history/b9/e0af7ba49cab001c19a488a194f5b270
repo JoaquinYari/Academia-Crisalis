@@ -1,0 +1,21 @@
+package persistence.commons;
+
+import persistence.PersonDao;
+
+public class DaoFactory {
+	
+	public static PersonDao getPersonDao() {
+		return new PersonDaoImpl();
+	}
+	
+	public static CompanyDao getCompanyDao() {
+		return new CompanyDaoImpl();
+	}
+	
+	public static ProductDao getProductDao() {
+		return new ProductDaoImpl();
+	}
+	
+	
+
+}

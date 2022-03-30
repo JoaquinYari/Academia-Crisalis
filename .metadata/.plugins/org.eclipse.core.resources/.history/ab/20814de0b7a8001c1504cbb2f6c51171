@@ -1,0 +1,13 @@
+package modelo;
+
+import java.util.List;
+
+public class Cliente {
+	
+	public List<Pedido> pedidos;
+	
+	public Cliente () {
+		pedidos = new ArrayList<Pedido>();
+	}
+		
+}

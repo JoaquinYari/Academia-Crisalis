@@ -1,0 +1,30 @@
+package modelo.pedido;
+
+public class ItemProducto extends ItemPedido {
+	
+	private Integer aniosGarantia;
+	private Double GARANTIA = 0.02;
+	
+
+	public ItemProducto(Integer id, String nombre, Double costoBase, Double iva, Double iibb, Integer aniosGarantia) {
+		super(id, nombre, costoBase, iva, iibb, cantidad);
+		this.aniosGarantia = aniosGarantia;
+	}
+	
+	public Double costoGarantia() {
+		return costoFinal * aniosGarantia * GARANTIA;
+	}
+	
+
+	@Override
+	public Double getCostoFinal() {
+		getImpuestos();
+		
+		
+		costoFinal = costoBase + impuestos;
+		
+		return costoFinal;
+	}
+	
+
+}

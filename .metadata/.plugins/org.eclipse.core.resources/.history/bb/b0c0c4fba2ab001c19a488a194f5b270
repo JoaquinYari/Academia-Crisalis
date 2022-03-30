@@ -1,0 +1,80 @@
+package persistence.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.List;
+
+import model.client.Person;
+import persistence.PersonDao;
+import persistence.commons.ConnectionProvider;
+import persistence.commons.MissingDataException;
+
+public class PersonDaoImpl implements PersonDao {
+
+
+	@Override
+	public Integer insert(Person person) {
+		try {
+			String sql = "INSERT INTO Persons (firsName, lastName, dni)" + "VALUES (?, ?, ?)";
+			Connection conn = ConnectionProvider.getConnection();
+
+			PreparedStatement statement = conn.prepareStatement(sql);
+			statement.setString(1, person.getFirstName());
+			statement.setString(2, person.getLastName());
+			statement.setInt(3, person.getDni());
+
+			int rows = statement.executeUpdate();
+
+			return rows;
+
+		} catch (Exception e) {
+			throw new MissingDataException(e);
+		}
+	}
+
+	@Override
+	public Integer update(Person person) {
+		try {
+			String sql = "UPDATE Persons (firsName, lastName) VALUES (?, ?, ?) WHERE id = ?";
+			Connection conn = ConnectionProvider.getConnection();
+
+			PreparedStatement statement = conn.prepareStatement(sql);
+			statement.setString(1, person.getFirstName());
+			statement.setString(2, person.getLastName());
+			statement.setInt(3, person.getDni());
+			statement.setInt(4, person.getId());
+
+			int rows = statement.executeUpdate();
+
+			return rows;
+
+		} catch (Exception e) {
+			throw new MissingDataException(e);
+		}
+	}
+
+	@Override
+	public Integer delete(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Person findByName(String firstName, String lastName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	@Override
+	public Person findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Person> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

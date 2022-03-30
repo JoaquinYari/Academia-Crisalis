@@ -1,0 +1,76 @@
+1647826516919	Encapsulate field 'items'
+1647889119554	Rename type 'Servicio'
+1647889357693	Rename type 'Producto'
+1647908932010	Move compilation unit
+1647908937141	Move compilation unit
+1647908942300	Move compilation unit
+1647908979373	Move compilation unit
+1647908983519	Move compilation unit
+1647908986727	Move compilation unit
+1647908989273	Move compilation unit
+1648051455613	Rename type 'ItemProducto'
+1648051473546	Rename type 'ItemServicio'
+1648054443793	Rename package 'modelo'
+1648054459509	Rename package 'modelo.cliente'
+1648054476673	Rename package 'modelo.pedido'
+1648054493351	Rename package 'persistencia'
+1648054514104	Rename package 'persistencia.comunes'
+1648054531517	Rename package 'persistencia.implementaciones'
+1648054555184	Rename type 'Cliente'
+1648054568794	Rename type 'Empresa'
+1648055476223	Rename type 'Persona'
+1648055534542	Rename type 'Sistema'
+1648055633162	Rename type 'System'
+1648134372107	Delete element
+1648134375305	Delete element
+1648134379081	Delete element
+1648134381211	Delete element
+1648134568737	Rename compilation unit 'Producto.java'
+1648134595936	Rename type 'Servicio'
+1648134629458	Rename type 'Pedido'
+1648134641178	Rename type 'ItemPedido'
+1648135087458	Rename type 'ClienteDaoImpl'
+1648135448610	Rename type 'PedidoDaoImpl'
+1648135465440	Rename type 'ProductoDaoImpl'
+1648135488907	Rename type 'ServicioDaoImpl'
+1648137381675	Rename type 'ConectionProvider'
+1648137806039	Rename field 'nombre'
+1648137844903	Rename local variable 'nombre'
+1648137891989	Rename field 'costoBase'
+1648137929934	Rename field 'impuestos'
+1648137950095	Rename field 'costoFinal'
+1648138004774	Rename local variable 'costoBase'
+1648138028387	Rename method 'getImpuestos'
+1648140188243	Rename local variable 'nombre'
+1648140198499	Rename local variable 'costoBase'
+1648140218505	Rename local variable 'costoBase'
+1648140223869	Rename local variable 'nombre'
+1648140272325	Rename field 'aniosGarantia'
+1648140285997	Rename field 'GARANTIA'
+1648140298344	Rename local variable 'aniosGarantia'
+1648140316003	Rename method 'getCostoFinal'
+1648140493626	Rename method 'costoGarantia'
+1648141149464	Rename field 'apellido'
+1648141158672	Rename field 'nombre'
+1648143619826	Rename local variable 'dni'
+1648143633964	Rename method 'findByDni'
+1648145102294	Rename local variable 'product'
+1648145161676	Rename local variable 'product'
+1648145174253	Rename local variable 'product'
+1648145493620	Rename field 'especial'
+1648145512968	Rename field 'cargoSoporte'
+1648145527603	Rename field 'CARGOSOPORTE'
+1648145546631	Rename local variable 'costoBase'
+1648145557162	Rename local variable 'especial'
+1648148973973	Rename field 'razonSocial'
+1648149033686	Rename field 'inicioActividad'
+1648149047941	Rename local variable 'inicioActividad'
+1648149094067	Rename local variable 'firstName'
+1648149102715	Rename local variable 'lastname'
+1648150477936	Delete element
+1648150512764	Copy package
+1648150538663	Delete element
+1648345179290	Rename package 'controller.cliente'
+1648345204497	Rename type 'CrearClienteServlet'
+1648345747045	Delete element
+1648345760030	Rename resource 'index.jsp'

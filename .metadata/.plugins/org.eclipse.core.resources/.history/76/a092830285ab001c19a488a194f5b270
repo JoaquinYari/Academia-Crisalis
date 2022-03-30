@@ -1,0 +1,9 @@
+package persistence;
+
+import persistence.commons.GenericDao;
+
+public interface CompanyDao extends GenericDao<Company> {
+	
+	Company finByBusinessName(String name);
+
+}

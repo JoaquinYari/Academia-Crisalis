@@ -1,0 +1,39 @@
+package modelo;
+
+public class Producto extends ItemPedido {
+	
+	private String idProducto;
+	
+	private Integer aniosGarantia;
+	private Double GARANTIA = 0.02;
+	
+
+	public Producto(String idProducto, Double costoBase, Double iva, Double iibb, Integer aniosGarantia) {
+		this.idProducto = idProducto;
+		this.costoBase = costoBase;
+		this.iva = iva / 100.0;
+		this.iibb = iibb / 100.0;
+		this.aniosGarantia = aniosGarantia;
+	}
+	
+	public String getId() {
+		return idProducto;
+	}	
+	
+	public Boolean esProducto() {
+		return true;
+	}
+
+	public Boolean esServicio() {	
+		return false;
+	}
+
+	@Override
+	public String toString() {
+		return "Producto [idProducto=" + idProducto + ", costoBase=" + costoBase + ", Impuestos="
+				+ getImpuestos() + ", Costo Final=" + getCostoFinal() + "]";
+	}
+
+
+	
+}

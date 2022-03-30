@@ -1,0 +1,18 @@
+package modelo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Cliente {
+	
+	public List<Pedido> pedidos;
+	public List<ItemServicio> serviciosActivos;
+	
+	public Cliente () {
+		pedidos = new ArrayList<Pedido>();
+		serviciosActivos = new ArrayList<ItemServicio>();
+	}
+	
+	
+		
+}

@@ -1,0 +1,66 @@
+package persistence.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.List;
+
+import model.client.Person;
+import persistence.PersonDao;
+import persistence.commons.ConnectionProvider;
+import persistence.commons.MissingDataException;
+
+public class PersonDaoImpl implements PersonDao {
+
+
+	@Override
+	public Integer insert(Person t) {
+		try {
+			String sql = "INSERT INTO Products (name, baseCost, iva, iibb)" + "VALUES (?, ?, ?, ?)";
+			Connection conn = ConnectionProvider.getConnection();
+
+			PreparedStatement statement = conn.prepareStatement(sql);
+			statement.setString(1, product.getName());
+			statement.setDouble(2, product.getBaseCost());
+			statement.setDouble(3, product.getIva());
+			statement.setDouble(4, product.getIibb());
+
+			int rows = statement.executeUpdate();
+
+			return rows;
+
+		} catch (Exception e) {
+			throw new MissingDataException(e);
+		}
+	}
+
+	@Override
+	public Integer update(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer delete(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Person findByName(String firstName, String lastName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	@Override
+	public Person findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Person> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,7 @@
+package model.nullObjets;
+
+import model.client.Company;
+
+public class NullCompany extends Company {
+
+}

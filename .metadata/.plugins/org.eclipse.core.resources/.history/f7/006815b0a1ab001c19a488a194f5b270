@@ -1,0 +1,46 @@
+package persistence.impl;
+
+import java.util.List;
+
+import model.client.Person;
+import persistence.PersonDao;
+
+public class PersonDaoImpl implements PersonDao {
+
+	@Override
+	public Person findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Person> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer insert(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer update(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer delete(Person t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Person findByName(String firstName, String lastName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

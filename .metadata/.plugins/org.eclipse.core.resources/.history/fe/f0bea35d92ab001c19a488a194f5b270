@@ -1,0 +1,122 @@
+package model.order;
+
+import java.time.LocalDateTime;
+import java.util.Hashtable;
+
+import model.client.Client;
+
+public class Order {
+
+	private Integer numeroPedido;
+	private Hashtable<Item, Integer> items;
+	private Double costoPedido;
+	private LocalDateTime fechaPedido;
+	private Client cliente;
+	private Double descuento;
+	private Double costoItems;
+	private Boolean activo;
+
+	private Double BENEFICIO = 0.1;
+	private Double MAXDESCUENTO = 2500.0;
+
+	public Order(Integer numeroPedido, Client cliente) {
+		this.numeroPedido = numeroPedido;
+		this.cliente = cliente;
+		costoItems = 0.0;
+		descuento = 0.0;
+		items = new Hashtable<Item, Integer>();
+		activo = true;
+	}
+
+	public void agregarItem(Item item, Integer cantidad) {
+		items.put(item, cantidad);
+	}
+
+	public Double calcularCostoItems() {
+		for (Item item : items.keySet()) {
+			costoItems += item.getFinalCost() * items.get(item);
+		}
+		return costoItems;
+	}
+
+	public Boolean correspondeDescuento() {
+		for (Item item : items.keySet()) {
+			if (item instanceof Service)
+				return true;
+		}
+		for (Order pedido : cliente.pedidos) {
+			if (pedido.activo) {
+				for (Item item : items.keySet()) {
+					if (item instanceof Service)
+						return true;
+				}
+			}
+		}
+		return false;
+	}
+
+	public Double calcularDescuento() {
+		for (Item item : items.keySet()) {
+			if (item instanceof Producto) {
+				descuento += item.getFinalCost() * BENEFICIO * items.get(item);
+			}
+		}
+		if (descuento > MAXDESCUENTO) {
+			return MAXDESCUENTO;
+		} else {
+			return descuento;
+		}
+	}
+
+	public void cerrarPedido() {
+		costoItems = calcularCostoItems();
+		if (correspondeDescuento()) {
+			descuento = calcularDescuento();
+		}
+		costoPedido = costoItems - descuento;
+		setFechaPedido();
+		cliente.pedidos.add(this);
+	}
+
+	public void cancelarPedido() {
+		vaciarPedido();
+		costoPedido = 0.0;
+		activo = false;
+		cliente.pedidos.remove(this);
+	}
+
+	private void vaciarPedido() {
+		items = new Hashtable<Item, Integer>();
+	}
+
+	public Integer getNumeroPedido() {
+		return numeroPedido;
+	}
+
+	public Double getCostoPedido() {
+		return costoPedido;
+	}
+
+	public LocalDateTime getFechaPedido() {
+		return fechaPedido;
+	}
+
+	public Double getDescuento() {
+		return descuento;
+	}
+
+	private void setFechaPedido() {
+		this.fechaPedido = LocalDateTime.now();
+	}
+
+	public Hashtable<Item, Integer> getItems() {
+		return items;
+	}
+
+	@Override
+	public String toString() {
+		return "Pedido [numeroPedido=" + numeroPedido + ", items=" + items + ", costoPedido=" + costoPedido
+				+ ", fechaPedido=" + fechaPedido + ", cliente=" + cliente + ", descuento=" + descuento + ", activo="
+				+ activo + "]";
+	}
+}

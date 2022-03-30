@@ -1,0 +1,27 @@
+package model.client;
+
+public class Company extends Client {
+	
+	private String businessName;
+	private Integer cuit;
+	private String inicioActividad;
+	private Person responsable;
+	
+	public Company(Integer id, String razonSocial, Integer cuit, String inicioActividad, String apellido, String nombre, Integer dni) {
+		super(id);
+		this.businessName = razonSocial;
+		this.cuit = cuit;
+		this.inicioActividad = inicioActividad;
+		responsable = new Person(apellido, nombre, dni);
+	}
+
+	@Override
+	public String toString() {
+		return "Empresa [razonSocial=" + businessName + ", cuit=" + cuit + ", inicioActividad=" + inicioActividad
+				+ ", responsable=" + responsable + "]";
+	}
+
+	
+	
+	
+}

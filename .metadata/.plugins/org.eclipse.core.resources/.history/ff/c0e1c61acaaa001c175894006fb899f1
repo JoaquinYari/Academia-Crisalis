@@ -1,0 +1,24 @@
+package model.client;
+
+public class Persona extends Cliente {
+	
+	protected String apellido;
+	protected String nombre;
+	protected Integer dni;
+	
+	public Persona(String apellido, String nombre, Integer dni) {
+		super();
+		this.apellido = apellido;
+		this.nombre = nombre;
+		this.dni = dni;
+	}
+
+	@Override
+	public String toString() {
+		return "Persona [apellido=" + apellido + ", nombre=" + nombre + ", dni=" + dni + "]";
+	}
+	
+	
+}
+
+

@@ -1,0 +1,22 @@
+package modelo;
+
+import java.time.LocalDate;
+
+public class Empresa extends Cliente {
+	
+	private String razonSocial;
+	private Integer cuit;
+	private LocalDate inicioActividad;
+	private Persona responsable;
+	
+	public Empresa(String razonSocial, Integer cuit, LocalDate inicioActividad, Persona responsable) {
+		super();
+		this.razonSocial = razonSocial;
+		this.cuit = cuit;
+		this.inicioActividad = inicioActividad;
+		this.responsable = responsable;
+	}
+	
+	
+	
+}

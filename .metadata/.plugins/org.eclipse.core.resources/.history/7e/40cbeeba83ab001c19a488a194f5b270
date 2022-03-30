@@ -1,0 +1,7 @@
+package persistence;
+
+import persistence.commons.GenericDao;
+
+public interface PersonDao extends GenericDao<T> {
+
+}

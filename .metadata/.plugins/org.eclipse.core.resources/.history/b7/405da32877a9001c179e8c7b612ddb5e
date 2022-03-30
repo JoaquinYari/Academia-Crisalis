@@ -1,0 +1,20 @@
+package modelo.cliente;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import modelo.ItemServicio;
+import modelo.Pedido;
+
+public class Cliente {
+	
+	public List<Pedido> pedidos;
+	public List<ItemServicio> serviciosActivos;
+	
+	public Cliente () {
+		pedidos = new ArrayList<Pedido>();
+		serviciosActivos = new ArrayList<ItemServicio>();
+	}
+	
+		
+}

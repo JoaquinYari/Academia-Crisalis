@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Joaquin\ACADEMIA-CRISALIS\TP\.metadata\.plugins\org.eclipse.jdt.core
+4060054301.index
+2286698835.index
+3086973181.index
+550630278.index
+654955673.index
+776600961.index
+871246731.index
+1630538898.index
+53303204.index
+3463364839.index
+736724285.index
+568149938.index

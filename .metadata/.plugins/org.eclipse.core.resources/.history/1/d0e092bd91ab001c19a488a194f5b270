@@ -1,0 +1,30 @@
+package model.order;
+
+public class Product extends Item {
+
+	private Integer yearsWarranty;
+	private Double WARRANTY = 0.02;
+
+	public Product(Integer id, String name, Double baseCost, Double iva, Double iibb) {
+		super(id, name, baseCost, iva, iibb);
+	}
+	
+	public Product(Integer id, String name, Double baseCost, Double iva, Double iibb, Integer aniosGarantia) {
+		super(id, name, baseCost, iva, iibb);
+		this.yearsWarranty = aniosGarantia;
+	}
+
+	public Double costoGarantia() {
+		return finalCost * yearsWarranty * WARRANTY;
+	}
+
+	@Override
+	public Double getCostoFinal() {
+		getTaxes();
+
+		finalCost = baseCost + taxes;
+
+		return finalCost;
+	}
+
+}

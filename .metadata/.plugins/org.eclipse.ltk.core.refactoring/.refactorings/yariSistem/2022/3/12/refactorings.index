@@ -1,0 +1,13 @@
+1647545151186	Encapsulate field 'identificador'
+1647545564452	Encapsulate field 'identificador'
+1647546042613	Encapsulate field 'identificador'
+1647592768709	Encapsulate field 'descuento'
+1647592983908	Encapsulate field 'costoTotal'
+1647595875647	Encapsulate field 'fechaPedido'
+1647697201450	Encapsulate field 'estado'
+1647697897598	Encapsulate field 'costoFinal'
+1647811950951	Delete element
+1647812020606	Rename type 'Item'
+1647812199259	Rename field 'costoFinal'
+1647812859233	Rename field 'costoTotal'
+1647813283721	Rename method 'getCostoTotal'

@@ -1,0 +1,24 @@
+package modelo;
+
+public abstract class ItemPedido {
+	
+	protected String nombre;
+	protected Double costoBase;
+	protected Double impuestos;
+	protected Double costoExtra;
+	protected Double costoFinal;
+	
+	protected Double iva;
+	protected Double iibb;
+	
+	public abstract Double getCostoFinal();
+	
+	public Double getImpuestos() {
+		impuestos = costoBase * (iva + iibb);
+		
+		return impuestos;
+	}
+	
+	public abstract Double getCostoExtra();
+
+}

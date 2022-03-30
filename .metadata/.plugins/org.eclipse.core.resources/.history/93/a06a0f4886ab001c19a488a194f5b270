@@ -1,0 +1,16 @@
+package persistence.impl;
+
+import model.client.Client;
+
+public class ClientDaoImpl {
+	
+	public int insert(Client client) {
+		
+		try {
+			String sql = "INSERT INTO Clients (";
+		} catch (Exception e) {
+			throw new MissingDataException(e);
+		}
+	}
+
+}

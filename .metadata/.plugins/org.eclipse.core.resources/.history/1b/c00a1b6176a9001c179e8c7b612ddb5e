@@ -1,0 +1,20 @@
+package modelo;
+
+public class Persona extends Cliente {
+	
+	protected String apellido;
+	private String nombre;
+	private Integer dni;
+	
+	public Persona(String apellido, String nombre, Integer dni) {
+		super();
+		this.apellido = apellido;
+		this.nombre = nombre;
+		this.dni = dni;
+	}
+	
+	
+	
+}
+
+

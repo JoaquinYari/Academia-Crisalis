@@ -1,0 +1,40 @@
+package modelo;
+
+public class ItemServicio extends ItemPedido{
+	
+	private String idServicio;
+	private Boolean especial;
+	private Double cargoSoporte;
+	
+	private Double CARGOSOPORTE = 0.15;
+	
+	
+	public ItemServicio (String idServicio, Double costoBase, Double iva, Double iibb, Boolean especial) {
+		this.idServicio = idServicio;
+		this.costoBase = costoBase;
+		this.iva = iva / 100.0;
+		this.iibb = iibb / 100.0;
+		this.especial = especial;
+	}
+	
+	@Override
+	public Double getCostoFinal() {
+		getImpuestos();
+		
+		if (especial) cargoSoporte = costoBase * CARGOSOPORTE;
+		else cargoSoporte = 0.0;
+		
+		costoFinal = costoBase + impuestos + cargoSoporte; 
+		return costoFinal;
+	}
+	
+	public String getId() {
+		return idServicio;
+	}
+	
+	public Double getCargoSoporte() {
+		
+		return costoBase * CARGOSOPORTE;
+	}
+
+}
