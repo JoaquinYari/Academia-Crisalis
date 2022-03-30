@@ -4,9 +4,9 @@ public class Person extends Customer {
 
 	protected String lastName;
 	protected String firstName;
-	protected Integer dni;
+	protected String dni;
 
-	public Person(Integer id, String apellido, String nombre, Integer dni) {
+	public Person(Integer id, String apellido, String nombre, String dni) {
 		super(id);
 		this.lastName = apellido;
 		this.firstName = nombre;
@@ -29,11 +29,11 @@ public class Person extends Customer {
 		this.firstName = firstName;
 	}
 
-	public Integer getDni() {
+	public String getDni() {
 		return dni;
 	}
 
-	public void setDni(Integer dni) {
+	public void setDni(String dni) {
 		this.dni = dni;
 	}
 

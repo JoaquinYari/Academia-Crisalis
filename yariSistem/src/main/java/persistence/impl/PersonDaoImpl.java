@@ -23,7 +23,7 @@ public class PersonDaoImpl implements PersonDao {
 			PreparedStatement statement = conn.prepareStatement(sql);
 			statement.setString(1, person.getFirstName());
 			statement.setString(2, person.getLastName());
-			statement.setInt(3, person.getDni());
+			statement.setString(3, person.getDni());
 
 			int rows = statement.executeUpdate();
 
@@ -43,7 +43,7 @@ public class PersonDaoImpl implements PersonDao {
 			PreparedStatement statement = conn.prepareStatement(sql);
 			statement.setString(1, person.getFirstName());
 			statement.setString(2, person.getLastName());
-			statement.setInt(3, person.getDni());
+			statement.setString(3, person.getDni());
 			statement.setInt(4, person.getId());
 
 			int rows = statement.executeUpdate();
@@ -146,7 +146,7 @@ public class PersonDaoImpl implements PersonDao {
 
 	private Person toPerson(ResultSet result) {
 		try {
-			return new Person(result.getInt(1), result.getString(2), result.getString(3), result.getInt(4));
+			return new Person(result.getInt(1), result.getString(2), result.getString(3), result.getString(4));
 		} catch (Exception e) {
 			throw new MissingDataException(e);
 		}

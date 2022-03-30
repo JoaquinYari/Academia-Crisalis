@@ -1,15 +1,13 @@
 package model.customer;
 
-import java.util.Date;
-
 public class Company extends Customer {
 	
 	private String companyName;
-	private Integer cuit;
-	private Date startActivity;
+	private String cuit;
+	private String startActivity;
 	private Person responsable;
 	
-	public Company(Integer id, String businessName, Integer cuit, Date startActivity, String lastName, String firstName, Integer dni) {
+	public Company(Integer id, String businessName, String cuit, String startActivity, String lastName, String firstName, String dni) {
 		super(id);
 		this.companyName = businessName;
 		this.cuit = cuit;
@@ -25,19 +23,19 @@ public class Company extends Customer {
 		this.companyName = businessName;
 	}
 
-	public Integer getCuit() {
+	public String getCuit() {
 		return cuit;
 	}
 
-	public void setCuit(Integer cuit) {
+	public void setCuit(String cuit) {
 		this.cuit = cuit;
 	}
 
-	public Date getStartActivity() {
+	public String getStartActivity() {
 		return startActivity;
 	}
 
-	public void setStartActivity(Date startActivity) {
+	public void setStartActivity(String startActivity) {
 		this.startActivity = startActivity;
 	}
 

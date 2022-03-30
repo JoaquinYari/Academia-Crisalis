@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="model.order.Service"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="persistence.commons.DaoFactory"/>
 </qualifiedTypeNameHistroy>

@@ -26,3 +26,5 @@
 1648581584932	Rename method 'getDescuento'
 1648581681155	Rename method 'cancelarPedido'
 1648588077439	Rename field 'businessName'
+1648600065930	Rename resource 'client'
+1648600153177	Rename type 'CreateClientServlet'

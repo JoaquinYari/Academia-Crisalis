@@ -1,7 +1,6 @@
 package persistence.impl;
 
 import java.sql.Connection;
-import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -25,11 +24,11 @@ public class CompanyDaoImpl implements CompanyDao {
 
 			PreparedStatement statement = conn.prepareStatement(sql);
 			statement.setString(1, company.getBusinessName());
-			statement.setDate(2, (Date) company.getStartActivity());
-			statement.setInt(3, company.getCuit());
+			statement.setString(2, company.getStartActivity());
+			statement.setString(3, company.getCuit());
 			statement.setString(4, company.getResponsable().getLastName());
 			statement.setString(5, company.getResponsable().getFirstName());
-			statement.setInt(6, company.getResponsable().getDni());
+			statement.setString(6, company.getResponsable().getDni());
 
 			int rows = statement.executeUpdate();
 
@@ -49,11 +48,11 @@ public class CompanyDaoImpl implements CompanyDao {
 
 			PreparedStatement statement = conn.prepareStatement(sql);
 			statement.setString(1, company.getBusinessName());
-			statement.setDate(2, (Date) company.getStartActivity());
-			statement.setInt(3, company.getCuit());
+			statement.setString(2, company.getStartActivity());
+			statement.setString(3, company.getCuit());
 			statement.setString(4, company.getResponsable().getLastName());
 			statement.setString(5, company.getResponsable().getFirstName());
-			statement.setInt(6, company.getResponsable().getDni());
+			statement.setString(6, company.getResponsable().getDni());
 			statement.setInt(7, company.getId());
 
 			int rows = statement.executeUpdate();
@@ -156,8 +155,8 @@ public class CompanyDaoImpl implements CompanyDao {
 	public Company toCompany(ResultSet result) {
 
 		try {
-			return new Company(result.getInt(1), result.getString(2), result.getInt(3), result.getDate(4),
-					result.getString(5), result.getString(6), result.getInt(7));
+			return new Company(result.getInt(1), result.getString(2), result.getString(3), result.getString(4),
+					result.getString(5), result.getString(6), result.getString(7));
 		} catch (SQLException e) {
 			throw new MissingDataException(e);
 		}

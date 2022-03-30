@@ -9,7 +9,7 @@ public class NullCompany extends Company {
 	}
 	
 	public NullCompany() {
-		super(0,"", 0, null, "", "", 0);
+		super(0,"", "", "", "", "", "");
 	}
 	
 	public boolean isNull() {

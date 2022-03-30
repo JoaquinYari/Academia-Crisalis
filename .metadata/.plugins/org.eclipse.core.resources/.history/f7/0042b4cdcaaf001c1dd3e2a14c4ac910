@@ -1,0 +1,15 @@
+package services;
+
+import model.customer.Company;
+
+public class CustomerService {
+
+	public Company create(Integer id, String companyName, String cuit, String startActivity, String firstName,
+			String lastName, String dni) {
+		
+		Company company = new Company (id, companyName, cuit, Date.parse(startActivity), firstName, lastName, dni);
+	}
+	
+	
+
+}
