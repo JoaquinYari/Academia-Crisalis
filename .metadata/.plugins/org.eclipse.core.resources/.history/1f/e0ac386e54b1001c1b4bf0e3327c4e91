@@ -1,0 +1,13 @@
+package controller.company;
+
+import jakarta.servlet.Servlet;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+
+
+@WebServlet("/deleteCompany")
+public class DeleteCompanyServlet extends HttpServlet implements Servlet {
+
+	private static final long serialVersionUID = 5393399563799676231L;
+
+}

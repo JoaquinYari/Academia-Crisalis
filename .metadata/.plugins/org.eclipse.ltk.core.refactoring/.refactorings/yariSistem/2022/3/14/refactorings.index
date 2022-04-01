@@ -28,3 +28,13 @@
 1648588077439	Rename field 'businessName'
 1648600065930	Rename resource 'client'
 1648600153177	Rename type 'CreateClientServlet'
+1648659338600	Rename package 'controller.customer'
+1648659364462	Rename type 'DeleteCustomerServlet'
+1648659391797	Rename type 'CustomerService'
+1648661055583	Rename type 'CreateCustomerServlet'
+1648691448739	Rename field 'customerService'
+1648749316517	Delete element
+1648770247133	Rename method 'setBusinessName'
+1648770636759	Rename resource 'create.jsp'
+1648770645894	Rename resource 'edit.jsp'
+1648770661801	Rename resource 'form.jsp'

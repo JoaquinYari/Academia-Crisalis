@@ -1,0 +1,56 @@
+package services;
+
+import model.customer.Person;
+import model.order.Product;
+import persistence.PersonDao;
+import persistence.ProductDao;
+import persistence.commons.DaoFactory;
+
+public class ProductService {
+	
+	public Product create(Integer id, String name, Double baseCost, Double iva, Double iibb) {
+
+		Product product = new Product(id, name, baseCost, iva, iibb);
+
+		if (product.isValid()) {
+			ProductDao productDao = DaoFactory.getProductDao();
+
+			productDao.insert(product);
+		}
+		return product;
+
+	}
+
+	public void delete(Integer id) {
+
+		ProductDao productDao = DaoFactory.getProductDao();
+
+		productDao.delete(id);
+
+	}
+
+	public Product update(Integer id,  String name, Double baseCost, Double iva, Double iibb) {
+
+		ProductDao productDao = DaoFactory.getProductDao();
+
+		Product product = productDao.findById(id);
+
+		if (person.isValid()) {
+			person.setFirstName(firstName);
+			person.setLastName(lastName);
+			person.setDni(dni);
+
+			personDao.update(person);
+		}
+
+		return person;
+
+	}
+
+	public Person find(Integer id) {
+		PersonDao personDao = DaoFactory.getPersonDao();
+		Person person = personDao.findById(id);
+		return person;
+	}
+
+}

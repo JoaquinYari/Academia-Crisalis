@@ -1,0 +1,55 @@
+package services;
+
+import model.customer.Company;
+import model.customer.Person;
+import persistence.CompanyDao;
+import persistence.PersonDao;
+import persistence.commons.DaoFactory;
+
+public class CompanyService {
+	
+	public Company create(Integer id, String companyName, String cuit, String startActivity, String firstName,
+			String lastName, String dni) {
+		
+		Company company = new Company (id, companyName, cuit, startActivity, firstName, lastName, dni);
+		
+		CompanyDao companyDao = DaoFactory.getCompanyDao();
+		
+		companyDao.insert(company);
+		
+		return company;
+		
+	}
+	
+	public void delete(Integer id) {
+		
+		CompanyDao companyDao = DaoFactory.getCompanyDao();
+		
+		companyDao.delete(id);
+	}
+	
+	public Person update(Integer id, String firstName, String lastName, String dni) {
+
+		PersonDao personDao = DaoFactory.getPersonDao();
+
+		Person person = personDao.findById(id);
+
+		if (person.isValid()) {
+			person.setFirstName(firstName);
+			person.setLastName(lastName);
+			person.setDni(dni);
+
+			personDao.update(person);
+		}
+
+		return person;
+
+	}
+
+	public Person find(Integer id) {
+		PersonDao personDao = DaoFactory.getPersonDao();
+		Person person = personDao.findById(id);
+		return person;
+	}
+
+}

@@ -1,5 +1,0 @@
-package persistence.commons;
-
-public class DaoFactory {
-
-}

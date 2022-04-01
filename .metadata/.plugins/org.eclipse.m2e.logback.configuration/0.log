@@ -2633,3 +2633,885 @@
 2022-03-29 22:59:14,645 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
 2022-03-29 22:59:14,646 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-29 22:59:14,646 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 11:30:54,555 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-30 11:33:27,239 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 11:33:27,239 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 11:33:27,242 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 11:33:27,242 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:17:30,508 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:17:30,508 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:17:30,511 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:17:30,512 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:19:07,948 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:19:07,948 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:19:07,949 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:19:07,950 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:24:01,132 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:24:01,132 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:24:01,134 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:24:01,134 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:24:58,793 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:24:58,794 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:24:58,795 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:24:58,796 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:26:15,285 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:15,286 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:26:15,287 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:15,288 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:26:36,241 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:36,241 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:26:36,243 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:36,243 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:26:57,691 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:57,691 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:26:57,693 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:26:57,693 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:51:37,365 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:51:37,365 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:51:37,368 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:51:37,368 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:51:39,455 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:51:39,456 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:51:39,457 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:51:39,458 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:52:25,831 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:52:25,831 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:52:25,833 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:52:25,833 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:52:37,375 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:52:37,375 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:52:37,377 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:52:37,377 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:55:39,295 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:55:39,295 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:55:39,297 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:55:39,298 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:56:04,754 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:04,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:56:04,759 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:04,760 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:56:32,229 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:32,229 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:56:32,231 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:32,231 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:56:55,236 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:55,237 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:56:55,238 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:56:55,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:58:04,153 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:58:04,153 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:58:04,155 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:58:04,155 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 13:58:15,216 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:58:15,216 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 13:58:15,217 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 13:58:15,218 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:01:10,348 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:01:10,349 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:01:10,350 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:01:10,350 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:02:46,778 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:02:46,779 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:02:46,780 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:02:46,780 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:03:04,018 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:03:04,018 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:03:04,019 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:03:04,019 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:03:19,166 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:03:19,166 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:03:19,167 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:03:19,168 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:24:16,083 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:24:16,562 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:24:16,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:24:16,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:25:06,783 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:25:06,784 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:25:06,785 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:25:06,785 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:25:50,248 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:25:50,249 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:25:50,250 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:25:50,250 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:26:27,986 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:26:27,987 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:26:27,991 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:26:27,991 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 14:59:55,454 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:59:55,463 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 14:59:55,466 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 14:59:55,466 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:00:13,328 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:00:13,328 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:00:13,330 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:00:13,330 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:01:05,657 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:05,657 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:01:05,659 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:05,659 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:01:37,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:37,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:01:37,661 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:37,661 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:01:39,706 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:39,707 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:01:39,708 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:39,708 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:01:47,590 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:47,591 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:01:47,594 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:01:47,594 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 15:02:52,598 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:02:52,599 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 15:02:52,601 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 15:02:52,602 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 16:33:55,872 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-30 16:36:02,702 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 16:36:02,702 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 16:36:02,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 16:36:02,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 18:05:15,739 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:05:15,761 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 18:05:15,763 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:05:15,763 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 18:09:59,848 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:09:59,848 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 18:09:59,850 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:09:59,851 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 18:11:32,974 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:11:32,975 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 18:11:32,977 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 18:11:32,978 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:03:38,516 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:03:38,531 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:03:38,534 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:03:38,534 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:06:38,387 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:06:38,387 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:06:38,390 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:06:38,390 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:09:06,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:09:06,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:09:06,316 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:09:06,316 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:09:42,658 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:09:42,658 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:09:42,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:09:42,660 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:20:06,383 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AcademiaCrisalis:yariSistem:0.0.1-SNAPSHOT @ C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\pom.xml.
+2022-03-30 20:20:08,652 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2022-03-30 20:20:09,164 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2022-03-30 20:20:09,402 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2022-03-30 20:20:10,200 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2022-03-30 20:20:14,770 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:14,771 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:20:14,772 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:14,772 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:20:14,773 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yariSistem
+2022-03-30 20:20:14,784 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yariSistem
+2022-03-30 20:20:14,790 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:16,824 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:16,825 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:20:16,827 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:16,828 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:20:16,993 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2022-03-30 20:20:19,208 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2022-03-30 20:20:19,855 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.17
+2022-03-30 20:20:20,019 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:20,020 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:20:20,022 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:20:20,022 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:27:22,359 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AcademiaCrisalis:yariSistem:0.0.1-SNAPSHOT @ C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\pom.xml.
+2022-03-30 20:27:23,487 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:27:23,488 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:27:23,490 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:27:23,490 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:27:23,490 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yariSistem
+2022-03-30 20:27:23,490 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yariSistem
+2022-03-30 20:27:23,493 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:27:24,793 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:27:24,794 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:27:24,795 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:27:24,795 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:32:52,814 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:32:52,815 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:32:52,816 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:32:52,816 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:33:51,282 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:33:51,283 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:33:51,284 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:33:51,284 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:36:38,513 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:36:38,513 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:36:38,515 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:36:38,516 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 20:39:46,180 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:39:46,181 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 20:39:46,182 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 20:39:46,182 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 21:15:36,145 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AcademiaCrisalis:yariSistem:0.0.1-SNAPSHOT @ C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\pom.xml.
+2022-03-30 21:15:55,141 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:15:55,141 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 21:15:55,143 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:15:55,144 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 21:15:55,144 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yariSistem
+2022-03-30 21:15:55,144 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yariSistem
+2022-03-30 21:15:55,202 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:15:58,723 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre11/mssql-jdbc-10.2.0.jre11-sources.jar
+2022-03-30 21:16:00,245 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre11/mssql-jdbc-10.2.0.jre11-sources.jar
+2022-03-30 21:16:03,364 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:10.2.0.jre11
+2022-03-30 21:16:26,857 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:16:26,869 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 21:16:26,871 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:16:26,872 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 21:38:25,205 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-30 21:51:54,299 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-30 21:53:18,290 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:53:18,290 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 21:53:18,293 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:53:18,293 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 21:53:53,171 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:53:53,171 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 21:53:53,173 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:53:53,174 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 21:55:45,693 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:55:45,694 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 21:55:45,695 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 21:55:45,695 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:48:08,011 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-30 22:48:12,287 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:48:12,287 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:48:12,290 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:48:12,317 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:50:49,101 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:50:49,121 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:50:49,125 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:50:49,125 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:51:45,378 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:51:45,379 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:51:45,381 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:51:45,381 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:52:03,357 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:52:03,357 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:52:03,359 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:52:03,359 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:52:09,348 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:52:09,348 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:52:09,350 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:52:09,351 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:54:01,869 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:54:01,869 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:54:01,871 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:54:01,871 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 22:56:32,449 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:56:32,450 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 22:56:32,451 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 22:56:32,452 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-30 23:04:16,498 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 23:04:16,499 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-30 23:04:16,509 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-30 23:04:16,510 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 10:28:09,012 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-31 10:28:31,704 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:28:31,705 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 10:28:31,710 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:28:31,710 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 10:29:17,558 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:29:17,558 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 10:29:17,561 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:29:17,562 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 10:38:28,451 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:38:28,451 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 10:38:28,453 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:38:28,454 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 10:38:35,189 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:38:35,189 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 10:38:35,191 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:38:35,192 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 10:41:29,542 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:41:29,543 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 10:41:29,544 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 10:41:29,545 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:00:14,462 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:00:14,463 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:00:14,467 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:00:14,467 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:02:39,963 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:02:39,963 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:02:39,965 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:02:39,965 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:02:49,215 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:02:49,215 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:02:49,219 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:02:49,219 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:03:48,687 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:03:48,688 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:03:48,688 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:03:48,688 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:18:15,314 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AcademiaCrisalis:yariSistem:0.0.1-SNAPSHOT @ C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\pom.xml.
+2022-03-31 11:18:18,528 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:18:18,529 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:18:18,532 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:18:18,533 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:18:18,535 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yariSistem
+2022-03-31 11:18:18,537 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yariSistem
+2022-03-31 11:18:18,548 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:18:20,931 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:18:20,931 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:18:20,936 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:18:20,936 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:20:53,063 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:20:53,063 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:20:53,065 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:20:53,065 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:22:14,907 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:22:14,907 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:22:14,909 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:22:14,909 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:23:05,032 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:23:05,034 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:23:05,035 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:23:05,036 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:25:00,035 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:25:00,035 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:25:00,037 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:25:00,037 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:26:04,506 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:26:04,506 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:26:04,507 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:26:04,507 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:58:49,350 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:58:49,350 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:58:49,352 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:58:49,352 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 11:59:37,115 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:59:37,116 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 11:59:37,119 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 11:59:37,119 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 12:06:15,625 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:06:15,626 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 12:06:15,627 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:06:15,628 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 12:07:29,560 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:07:29,560 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 12:07:29,562 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:07:29,562 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 12:14:24,058 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:14:24,059 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 12:14:24,062 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:14:24,062 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 12:22:05,962 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:22:05,962 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 12:22:05,963 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:22:05,964 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 12:22:51,230 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:22:51,230 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 12:22:51,231 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 12:22:51,231 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 14:54:04,927 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AcademiaCrisalis:yariSistem:0.0.1-SNAPSHOT @ C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\pom.xml.
+2022-03-31 14:54:06,575 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:06,576 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 14:54:06,579 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:06,579 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 14:54:06,579 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yariSistem
+2022-03-31 14:54:06,579 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yariSistem
+2022-03-31 14:54:06,585 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:08,365 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:08,366 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 14:54:08,368 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:08,369 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 14:54:08,632 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/9.2.0.jre11/mssql-jdbc-9.2.0.jre11-sources.jar
+2022-03-31 14:54:09,658 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/microsoft/sqlserver/mssql-jdbc/9.2.0.jre11/mssql-jdbc-9.2.0.jre11-sources.jar
+2022-03-31 14:54:11,421 [Worker-65: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:9.2.0.jre11
+2022-03-31 14:54:11,704 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:11,705 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 14:54:11,706 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:54:11,706 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 14:55:16,873 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:55:16,873 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 14:55:16,874 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 14:55:16,874 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 14:58:03,020 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-31 15:04:11,584 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:04:11,585 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 15:04:11,589 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:04:11,590 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 15:05:44,115 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:05:44,116 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 15:05:44,118 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:05:44,118 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 15:44:11,409 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:44:11,411 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 15:44:11,416 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:44:11,417 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 15:45:33,036 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:45:33,037 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 15:45:33,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:45:33,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 15:46:32,025 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:46:32,026 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 15:46:32,028 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 15:46:32,028 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:13:34,327 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:13:34,327 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:13:34,329 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:13:34,330 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:14:01,577 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:14:01,577 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:14:01,579 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:14:01,579 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:30:22,432 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:30:22,432 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:30:22,440 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:30:22,441 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:30:28,417 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:30:28,418 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:30:28,419 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:30:28,420 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:31:49,387 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:31:49,387 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:31:49,389 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:31:49,389 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:33:10,533 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:33:10,533 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:33:10,535 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:33:10,535 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:38:50,838 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:38:50,839 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:38:50,840 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:38:50,841 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:40:30,326 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:30,327 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:40:30,328 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:30,328 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:40:38,508 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:38,509 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:40:38,510 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:38,510 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:40:53,997 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:53,997 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:40:53,999 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:40:53,999 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:42:55,306 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:42:55,306 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:42:55,408 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:42:55,408 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:45:14,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:45:14,833 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:45:14,837 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:45:14,838 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:46:24,761 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:46:24,761 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:46:24,763 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:46:24,763 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:46:58,292 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:46:58,293 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:46:58,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:46:58,295 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:47:35,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:47:35,295 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:47:35,297 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:47:35,297 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:51:08,094 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:51:08,095 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:51:08,096 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:51:08,097 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 16:56:01,545 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:56:01,545 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 16:56:01,547 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 16:56:01,548 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:04:52,288 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:04:52,288 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:04:52,290 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:04:52,290 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:06:32,113 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:06:32,113 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:06:32,116 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:06:32,116 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:07:04,657 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:07:04,658 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:07:04,660 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:07:04,661 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:08:17,149 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:08:17,149 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:08:17,151 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:08:17,152 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:08:36,328 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:08:36,329 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:08:36,330 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:08:36,330 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:11:26,986 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:11:26,986 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:11:26,987 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:11:26,987 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:11:58,782 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:11:58,783 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:11:58,785 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:11:58,785 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:13:26,621 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:13:26,621 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:13:26,622 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:13:26,622 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:20:11,279 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:20:11,280 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:20:11,283 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:20:11,283 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:26:13,894 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:26:13,895 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:26:14,050 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:26:14,052 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:27:00,398 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:27:00,398 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:27:00,400 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:27:00,400 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:28:34,286 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:28:34,286 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:28:34,287 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:28:34,287 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:33:20,175 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:33:20,176 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:33:20,177 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:33:20,178 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:34:15,787 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:15,787 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:34:15,788 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:15,788 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:34:22,423 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:22,424 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:34:22,425 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:22,425 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:34:41,313 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:41,313 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:34:41,315 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:34:41,315 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:35:27,433 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:35:27,434 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:35:27,436 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:35:27,436 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:38:17,686 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:38:17,686 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:38:17,687 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:38:17,687 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:40:41,075 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:40:41,076 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:40:41,078 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:40:41,078 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:41:42,676 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:41:42,676 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:41:42,685 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:41:42,685 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:43:12,745 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:43:12,746 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:43:12,747 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:43:12,748 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:43:21,223 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:43:21,224 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:43:21,225 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:43:21,225 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:45:47,220 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:45:47,221 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:45:47,223 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:45:47,223 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:47:33,100 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:47:33,100 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:47:33,102 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:47:33,103 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:48:10,522 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:10,522 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:48:10,525 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:10,525 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:48:20,586 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:20,586 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:48:20,588 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:20,589 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:48:30,951 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:30,951 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:48:30,951 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:48:30,952 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:49:38,890 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:49:38,890 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:49:38,891 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:49:38,892 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:49:41,042 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:49:41,046 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:49:41,048 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:49:41,049 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 17:50:09,955 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:50:09,956 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 17:50:09,958 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 17:50:09,958 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:29:44,107 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:29:44,107 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:29:44,109 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:29:44,109 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:30:04,631 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:30:04,632 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:30:04,634 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:30:04,635 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:31:05,278 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:05,278 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:31:05,279 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:05,280 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:31:23,483 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:23,484 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:31:23,484 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:23,485 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:31:31,719 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:31,720 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:31:31,753 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:31,754 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:31:43,446 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:43,446 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:31:43,447 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:31:43,447 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:32:27,223 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:27,223 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:32:27,224 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:27,225 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:32:46,063 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:46,064 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:32:46,077 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:46,078 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:32:56,945 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:56,947 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:32:56,947 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:32:56,948 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:33:23,332 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:33:23,333 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:33:23,334 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:33:23,334 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:33:53,249 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:33:53,249 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:33:53,250 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:33:53,251 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:34:39,328 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:34:39,328 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:34:39,379 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:34:39,380 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:35:13,780 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:35:13,780 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:35:13,782 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:35:13,782 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:36:47,429 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:36:47,429 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:36:47,431 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:36:47,432 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:38:44,083 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:38:44,083 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:38:44,084 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:38:44,085 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:44:07,563 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:07,563 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:44:07,565 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:07,565 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:44:30,409 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:30,410 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:44:30,411 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:30,411 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:44:41,439 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:41,440 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:44:41,441 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:41,441 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:44:46,514 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:46,514 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:44:46,515 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:44:46,515 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:45:37,321 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:45:37,321 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:45:37,322 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:45:37,322 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:46:07,235 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:07,235 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:46:07,236 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:07,237 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:46:12,038 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:12,038 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:46:12,039 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:12,039 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:46:34,672 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:34,672 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:46:34,674 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:46:34,675 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:48:00,418 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:48:00,419 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:48:00,420 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:48:00,421 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:48:05,050 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:48:05,051 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:48:05,052 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:48:05,052 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:49:14,671 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:49:14,672 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:49:14,673 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:49:14,673 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:49:42,599 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:49:42,599 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:49:42,601 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:49:42,601 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:50:36,981 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:50:36,981 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:50:36,983 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:50:36,984 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:50:46,044 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:50:46,044 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:50:46,046 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:50:46,046 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:51:01,912 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:01,912 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:51:02,006 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:02,007 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:51:11,290 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:11,291 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:51:11,293 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:11,293 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:51:17,880 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:17,880 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:51:17,882 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:17,882 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:51:41,516 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:41,517 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:51:41,519 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:51:41,521 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:52:26,563 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:52:26,563 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:52:26,564 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:52:26,565 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:53:42,473 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:53:42,473 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:53:42,474 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:53:42,474 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 20:54:14,206 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:54:14,206 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 20:54:14,208 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 20:54:14,208 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:30:34,926 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:30:34,927 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:30:34,928 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:30:34,929 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:30:51,139 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:30:51,139 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:30:51,140 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:30:51,141 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:31:06,098 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:31:06,098 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:31:06,100 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:31:06,100 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:31:20,268 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:31:20,268 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:31:20,270 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:31:20,270 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:32:15,884 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:32:15,884 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:32:15,886 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:32:15,886 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:32:47,829 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:32:47,829 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:32:47,831 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:32:47,832 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:36:47,484 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:36:47,484 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:36:47,680 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:36:47,681 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:36:59,674 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:36:59,674 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:36:59,676 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:36:59,676 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:37:10,956 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:37:10,957 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:37:10,959 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:37:10,960 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:37:21,772 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:37:21,772 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:37:21,774 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:37:21,774 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:38:57,726 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:38:57,726 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:38:57,727 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:38:57,728 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:39:44,676 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:39:44,676 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:39:44,677 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:39:44,678 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:40:18,551 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:40:18,552 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:40:18,560 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:40:18,560 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:41:12,760 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:12,761 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:41:12,762 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:12,762 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:41:15,907 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:15,907 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:41:15,908 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:15,908 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:41:51,234 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:51,234 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:41:51,246 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:41:51,247 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:42:17,959 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:17,960 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:42:17,961 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:17,962 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:42:29,737 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:29,738 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:42:29,741 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:29,742 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:42:44,125 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:44,126 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:42:44,128 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:44,128 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:42:48,587 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:48,588 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:42:48,589 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:42:48,589 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:43:06,095 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:06,096 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:43:06,098 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:06,098 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:43:37,812 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:37,960 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:43:37,963 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:37,963 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:43:52,337 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:52,337 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:43:52,338 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:43:52,338 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:45:58,399 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:45:58,399 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:45:58,400 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:45:58,401 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:46:12,578 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:46:12,578 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:46:12,578 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:46:12,579 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:47:08,164 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:47:08,164 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:47:08,164 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:47:08,164 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:47:47,803 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:47:47,803 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:47:47,805 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:47:47,805 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:49:30,124 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:49:30,124 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:49:30,125 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:49:30,125 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:51:53,978 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:51:53,979 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:51:53,979 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:51:53,980 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:53:25,004 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:53:25,005 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:53:25,006 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:53:25,006 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:54:23,194 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:54:23,194 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:54:23,195 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:54:23,195 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:56:07,248 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:56:07,249 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources
+2022-03-31 21:56:07,425 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:56:07,426 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\test\resources
+2022-03-31 21:56:20,613 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-31 21:56:20,613 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Joaquin\ACADEMIA-CRISALIS\TP\yariSistem\src\main\resources

@@ -1,10 +1,13 @@
 package model.customer;
 
+import java.util.HashMap;
+
 public class Person extends Customer {
 
 	protected String lastName;
 	protected String firstName;
 	protected String dni;
+	protected HashMap<String, String> errors;
 
 	public Person(Integer id, String apellido, String nombre, String dni) {
 		super(id);
@@ -40,6 +43,20 @@ public class Person extends Customer {
 	@Override
 	public String toString() {
 		return "Persona [apellido=" + lastName + ", nombre=" + firstName + ", dni=" + dni + "]";
+	}
+
+	public boolean isValid() {
+		validate();
+		return errors.isEmpty();
+	}
+
+	public void validate() {
+		errors = new HashMap<String, String>();
+		
+		if (dni.length() != 8) {
+			errors.put("dni", "invalid dni");
+		}
+		
 	}
 
 }

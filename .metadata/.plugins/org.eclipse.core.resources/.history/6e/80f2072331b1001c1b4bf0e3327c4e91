@@ -1,0 +1,8 @@
+package controller.person;
+
+import jakarta.servlet.Servlet;
+import jakarta.servlet.http.HttpServlet;
+
+public class EditPersonServlet extends HttpServlet implements Servlet {
+
+}

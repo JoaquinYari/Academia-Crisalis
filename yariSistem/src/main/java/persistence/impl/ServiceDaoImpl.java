@@ -62,13 +62,13 @@ public class ServiceDaoImpl implements ServiceDao {
 	}
 
 	@Override
-	public Integer delete(Service service) {
+	public Integer delete(Integer id) {
 		try {
 			String sql = "DELETE FROM Services WHERE id = ?";
 			Connection conn = ConnectionProvider.getConnection();
 
 			PreparedStatement statement = conn.prepareStatement(sql);
-			statement.setInt(1, service.getId());
+			statement.setInt(1, id);
 
 			int rows = statement.executeUpdate();
 

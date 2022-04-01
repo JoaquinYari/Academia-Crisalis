@@ -1,0 +1,48 @@
+package services;
+
+import model.customer.Company;
+import model.customer.Person;
+import persistence.CompanyDao;
+import persistence.PersonDao;
+import persistence.commons.DaoFactory;
+
+public class CustomerService {
+
+	public Company create(Integer id, String companyName, String cuit, String startActivity, String firstName,
+			String lastName, String dni) {
+		
+		Company company = new Company (id, companyName, cuit, startActivity, firstName, lastName, dni);
+		
+		CompanyDao companyDao = DaoFactory.getCompanyDao();
+		
+		companyDao.insert(company);
+		
+		return company;
+		
+	}
+
+	public Person create(Integer id, String firstName, String lastName, String dni) {
+
+		Person person = new Person (id, firstName, lastName, dni);
+		
+		PersonDao personDao = DaoFactory.getPersonDao();
+		
+		personDao.insert(person);
+		
+		return person;
+		
+	}
+
+	public void delete(Integer id) {
+		
+		PersonDao personDao = DaoFactory.getPersonDao();
+		
+		Person person = personDao.findById(id);		
+		
+	}
+	
+	
+	
+	
+
+}

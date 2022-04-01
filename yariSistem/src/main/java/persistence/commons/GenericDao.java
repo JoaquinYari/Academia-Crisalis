@@ -8,6 +8,6 @@ public interface GenericDao<T> {
 	public List<T> findAll();
 	public Integer insert(T t);
 	public Integer update(T t);
-	public Integer delete(T t);
+	public Integer delete(Integer id);
 	
 }

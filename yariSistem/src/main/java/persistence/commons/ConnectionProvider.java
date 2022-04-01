@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConnectionProvider {
 	
-	private static String url;
+	private static String url = "jdbc:sqlserver://servername=DESKTOP-T4SUKVS\\SQLEXPRESS;databasename=crisalisDB;username=yari;password=yari;";
 	private static Connection connection;
 	
 	

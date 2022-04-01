@@ -1,6 +1,5 @@
 package model.nullObjets;
 
-import model.order.Product;
 import model.order.Service;
 
 public class NullService extends Service {

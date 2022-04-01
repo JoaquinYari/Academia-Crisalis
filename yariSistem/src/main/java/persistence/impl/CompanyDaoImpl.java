@@ -65,13 +65,13 @@ public class CompanyDaoImpl implements CompanyDao {
 	}
 
 	@Override
-	public Integer delete(Company company) {
+	public Integer delete(Integer id) {
 		try {
 			String sql = "DELETE FROM Companies WHERE id = ?";
 			Connection conn = ConnectionProvider.getConnection();
 
 			PreparedStatement statement = conn.prepareStatement(sql);
-			statement.setInt(1, company.getId());
+			statement.setInt(1, id);
 
 			int rows = statement.executeUpdate();
 

@@ -1,0 +1,8 @@
+package controller.company;
+
+import jakarta.servlet.Servlet;
+import jakarta.servlet.http.HttpServlet;
+
+public class DeleteCompanyServlet extends HttpServlet implements Servlet {
+
+}

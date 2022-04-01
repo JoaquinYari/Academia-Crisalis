@@ -1,0 +1,35 @@
+package services;
+
+import model.customer.Person;
+import persistence.PersonDao;
+import persistence.commons.DaoFactory;
+
+public class PersonService {
+
+	public Person create(Integer id, String firstName, String lastName, String dni) {
+
+		Person person = new Person (id, firstName, lastName, dni);
+		
+		PersonDao personDao = DaoFactory.getPersonDao();
+		
+		personDao.insert(person);
+		
+		return person;
+		
+	}
+
+	public int delete(Integer id) {
+		
+		PersonDao personDao = DaoFactory.getPersonDao();
+		
+		Person person = personDao.findById(id);
+		
+		return personDao.delete(id);		
+		
+	}
+	
+	
+	
+	
+
+}

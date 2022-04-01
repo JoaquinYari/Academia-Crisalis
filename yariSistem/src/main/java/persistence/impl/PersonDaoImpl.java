@@ -56,13 +56,13 @@ public class PersonDaoImpl implements PersonDao {
 	}
 
 	@Override
-	public Integer delete(Person person) {
+	public Integer delete(Integer id) {
 		try {
 			String sql = "DELETE FROM Persons WHERE id = ?";
 			Connection conn = ConnectionProvider.getConnection();
 
 			PreparedStatement statement = conn.prepareStatement(sql);
-			statement.setInt(1, person.getId());
+			statement.setInt(1, id);
 			int rows = statement.executeUpdate();
 
 			return rows;

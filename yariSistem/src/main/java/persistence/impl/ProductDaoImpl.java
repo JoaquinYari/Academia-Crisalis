@@ -60,13 +60,13 @@ public class ProductDaoImpl implements ProductDao {
 	}
 
 	@Override
-	public Integer delete(Product product) {
+	public Integer delete(Integer id) {
 		try {
 			String sql = "DELETE FROM Products WHERE id = ?";
 			Connection conn = ConnectionProvider.getConnection();
 
 			PreparedStatement statement = conn.prepareStatement(sql);
-			statement.setInt(1, product.getId());
+			statement.setInt(1, id);
 
 			int rows = statement.executeUpdate();
 

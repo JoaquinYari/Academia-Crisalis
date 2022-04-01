@@ -1,7 +1,0 @@
-package persistence;
-
-import persistence.commons.GenericDao;
-
-public interface ServiceDao extends GenericDao<T> {
-
-}

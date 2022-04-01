@@ -1,0 +1,33 @@
+package controller.person;
+
+import java.io.IOException;
+
+import jakarta.servlet.RequestDispatcher;
+import jakarta.servlet.Servlet;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import model.customer.Person;
+import services.PersonService;
+
+public class EditPersonServlet extends HttpServlet implements Servlet {
+
+	private static final long serialVersionUID = -4942391200331348336L;
+	private PersonService personService;
+	
+	@Override
+	public void init() throws ServletException {
+		super.init();
+		personService = new PersonService();
+	}
+	
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		Integer id = Integer.parseInt(req.getParameter("id"));
+		Person person = personService.find(id);
+		
+		RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("/views/customers/create.jsp");
+		dispatcher.forward(req, resp);
+	}
+
+}
